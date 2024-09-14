@@ -12,6 +12,70 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/0NKucMM"
       }
+    },
+    "2": {
+      "title": "Round 2 “Sparkiest Explosion”  VS Solid Tin and S-Dog",
+      "volume": "1",
+      "last_updated": "1726296632",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Zdfy7Vc"
+      }
+    },
+    "3": {
+      "title": "Round 3 “Our Role” VS Wyatt The Worm and Verse Soloing Rubrum & Kanta Chi ",
+      "volume": "1",
+      "last_updated": "1726296719",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZVtbQSt"
+      }
+    },
+    "4": {
+      "title": "Round 4 “In the Flash of Camera” VS Akemi Akelpi and The Secret Demon",
+      "volume": "1",
+      "last_updated": "1726296777",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/U82SVrP"
+      }
+    },
+    "5": {
+      "title": "Round 5 \"BURY THE DARK\" VS Goons by Luzu",
+      "volume": "1",
+      "last_updated": "1726296895",
+      "groups": {
+        "Luzu": "/proxy/api/imgur/chapter/WEUZqsF"
+      }
+    },
+    "6": {
+      "title": "Round 5 Intermission \"Pink Jam Dreams\"",
+      "volume": "1",
+      "last_updated": "1726296949",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vtAemTs"
+      }
+    },
+    "7": {
+      "title": "Round 5 \"There is always Pancake Time\" VS Goons  ",
+      "volume": "1",
+      "last_updated": "1726297009",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/6kBK3ln"
+      }
+    },
+    "8": {
+      "title": "Round 6 Intermission",
+      "volume": "1",
+      "last_updated": "1726297055",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dX6ZPr3"
+      }
+    },
+    "9": {
+      "title": "Round 6: \"Divine Supper\" vs Pandora",
+      "volume": "1",
+      "last_updated": "1726297115",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yg9CJ6G"
+      }
     }
   }
 }
