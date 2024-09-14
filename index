@@ -1,0 +1,17 @@
+{
+  "title": "GOKU Royal 3.33",
+  "description": "Adventures of seasoned Magical Girl, Princess Page of Brigh Heart" who may hate the industry but love her job as magical girl!",
+  "artist": "Mr.Fifi",
+  "author": "Mr.Fifi",
+  "cover": "https://i.imgur.com/D8mlxRi.png",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Round 1 “The Brightest Curse”",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/0NKucMM/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
